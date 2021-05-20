@@ -16,7 +16,7 @@ from setuptools import setup
 
 
 setup(
-    name='example_pkg_a',
+    name='example_native_pkg_a',
 
     version='1',
 
@@ -28,6 +28,6 @@ setup(
 
     license='Apache Software License',
 
-    packages=['example_pkg.a'],
+    packages=['example_native_pkg.a'],
     zip_safe=False,
 )
