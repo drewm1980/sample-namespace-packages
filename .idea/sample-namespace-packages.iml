@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/subdirectory/subdirectory/subdirectory" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pkg_resources/pkg_a" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pkg_resources/pkg_b" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pkgutil/pkg_a" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pkgutil/pkg_b" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/native/pkg_a" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/native/pkg_b" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.6 (rvai_sdk_2021_05_12)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyNamespacePackagesService">
+    <option name="namespacePackageFolders">
+      <list>
+        <option value="$MODULE_DIR$/native" />
+        <option value="$MODULE_DIR$/pkg_resources" />
+        <option value="$MODULE_DIR$/pkgutil" />
+      </list>
+    </option>
+  </component>
+</module>
